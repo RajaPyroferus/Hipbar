@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Hipbar Web Application" verbose="2">
+
+<test name="Emailfied_Verification">
+<classes>
+<class name="Hipbar_fa_bar.For_Retailars_EmailField_verification"></class>
+</classes>
+</test>
+
+<test name="MobileField_Verification">
+<classes>
+<class name="Hipbar_fa_bar.For_Retailars_MobileField_verification"></class>
+</classes>
+</test>
+
+</suite>
